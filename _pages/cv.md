@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Education
 ======
 * B.S. in Computer Science, University of Houston, 2025
 * [cs.uh.edu](cs.uh.edu)
 
-# Work Experience
+Work Experience
 ======
 ## Software Engineering Intern, Hewlett Packard Enterprise (June 2024 - Present)
 - Developed a Full Stack Web Application: Created a server management tool designed to monitor and protect lab infrastructure, using Flask for the backend and React for the frontend
@@ -31,7 +31,7 @@ redirect_from:
 ## Web Developer, Institute of Electrical and Electronics Engineers – University of Houston (Aug 2021 – May 2022)
 - Website Management: Maintained and enhanced the organization's website, ensuring dynamic and engaging communication of club activities
 
-# Skills
+Skills
 ======
 - **Programming Languages**: C++, Python, MATLAB, Javascript, HTML, CSS, SQL, Kotlin, SQL, C, Java
 - **Tools/frameworks**: MATLAB, Github, Git, Excel, Word, Humio, Playwright, Docker, React, Flask, MongoDB, Android Studio, Jira, CICD, Confluence, Nginx, Gunicorn
