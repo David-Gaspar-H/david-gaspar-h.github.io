@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "David Gaspar-Herrera"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "David Gaspar-Herrera"
   pronouns         : "he/him" 
-  bio              : "Short biography"
+  bio              : "Student at University of Houston(cs.uh.edu) SWE intern at HPE"
   location         : "Houston"
   employer         : "Hewlett Packard Enterprise"
   uri              : "cs.uh.edu"
