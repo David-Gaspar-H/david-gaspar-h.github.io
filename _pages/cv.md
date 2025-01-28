@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, University of Houston, 2025
-  [cs.uh.edu](cs.uh.edu)
+* [cs.uh.edu](cs.uh.edu)
 
 Work experience
 ======
