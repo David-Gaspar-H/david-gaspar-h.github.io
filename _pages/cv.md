@@ -7,10 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # Education
-- ## **University of Houston, 2025**
+- **University of Houston, 2025**
   - Bachelor of Science, Major in Computer Science, Minor in Mathematics
 
 # Work Experience
@@ -21,12 +19,12 @@ redirect_from:
   - Collaborative Development: Actively updated project progress on GitHub, and presented updates to end users, ensuring clear communication and continuous feedback
   - Technical Documentation: Contributed to comprehensive system documentation in Confluence, detailing the architecture, implementation, and usage of the application for future reference and onboarding
 
-- ## **Software Engineering QA Intern, Hewlett Packard Enterprise (May 2023 – Dec 2023)**
+- **Software Engineering QA Intern, Hewlett Packard Enterprise (May 2023 – Dec 2023)**
   - Automated Testing: Spearheaded the creation of automated End-to-End Tests using Playwright and Python, significantly enhancing the reliability and functionality of the server management platform
   - Problem Resolution and CI/CD: Managed and resolved recurring production issues by seamlessly integrating changes through CI/CD pipelines, utilizing Jira for task management
   - Machine Learning Integration: Developed Python-based automated log analysis and classification systems, applying machine learning techniques to identify log events in failing test cases, thereby improving troubleshooting efficiency
 
-- ## Web Developer, Institute of Electrical and Electronics Engineers – University of Houston (Aug 2021 – May 2022)
+- **Web Developer, Institute of Electrical and Electronics Engineers – University of Houston (Aug 2021 – May 2022)**
   - Website Management: Maintained and enhanced the organization's website, ensuring dynamic and engaging communication of club activities
 
 # Skills
