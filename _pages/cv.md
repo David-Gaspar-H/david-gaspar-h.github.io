@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # Education
-- **University of Houston, 2025**
+- ### **University of Houston, 2025**
   - Bachelor of Science, Major in Computer Science, Minor in Mathematics
 
 # Work Experience
