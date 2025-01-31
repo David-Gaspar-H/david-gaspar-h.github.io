@@ -33,6 +33,6 @@ Work Experience
 
 Skills
 ======
-- **Programming Languages**: C++, Python, MATLAB, Javascript, HTML, CSS, SQL, Kotlin, SQL, C, Java
-- **Tools/frameworks**: MATLAB, Github, Git, Excel, Word, Humio, Playwright, Docker, React, Flask, MongoDB, Android Studio, Jira, CICD, Confluence, Nginx, Gunicorn
+- **Programming Languages**: C++, Python, MATLAB, Javascript, HTML, CSS, SQL, Kotlin, SQL, C, Java, Pearl
+- **Tools/frameworks**: MATLAB, Github, Git, Excel, Word, Humio, Playwright, Docker, React, Flask, MongoDB, Android Studio, Jira, CICD, Confluence, Nginx, Gunicorn, Django, Tkinter, VSCode
 - **Languages**: Bilingual in English and Spanish
