@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Houston, 2025
-* [cs.uh.edu](https://www.uh.edu/nsm/computer-science/)
+#### University of Houston, 2025
+* Bachelor of Science, Major in Computer Science, Minor in Mathematics
 
 Work Experience
 ======
