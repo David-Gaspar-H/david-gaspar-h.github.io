@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br/><br/>
+
 # Education
 - **University of Houston, 2025**
   - Bachelor of Science, Major in Computer Science, Minor in Mathematics
