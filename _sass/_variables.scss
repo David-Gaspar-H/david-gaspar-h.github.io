@@ -55,24 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #839496;  // Solarized base0, a muted blue-gray
-$dark-gray                  : #586e75;  // Solarized base01
-$darker-gray                : #073642;  // Solarized base02
-$light-gray                 : #93a1a1;  // Solarized base1
-$lighter-gray               : #eee8d5;  // Solarized base2
+$gray                       : #A499B3;  // Base mid-tone using the soft lavender
+$dark-gray                  : #534B62;  // Using the muted purple for darker elements
+$darker-gray                : mix(#000, #534B62, 20%);  // Even darker shade of the purple
+$light-gray                 : #D0BCD5;  // Light purple-pink for lighter elements
+$lighter-gray               : mix(#fff, #D0BCD5, 25%);  // Slightly lighter version
 
-$body-color                 : #002b36;  // Solarized base03 (darkest background)
-$background-color           : #073642;  // Solarized base02 (dark blue-black)
-$code-background-color      : #002b36;  // Darker background for code
-$code-background-color-dark : #073642;  // Slightly lighter for dark mode code
-$text-color                 : #839496;  // Solarized base0 (default text color)
-$border-color              : #586e75;   // Darker border color
+$body-color                 : #1B1725;  // Darkest purple-blue for main background
+$background-color           : lighten(#1B1725, 5%);  // Slightly lighter than body color
+$code-background-color      : #1B1725;  // Dark background for code
+$code-background-color-dark : #534B62;  // Medium purple for dark mode code
+$text-color                 : #D0BCD5;  // Light purple-pink for good contrast
+$border-color              : #534B62;   // Medium purple for borders
 
-$primary-color             : #268bd2;   // Solarized blue
-$success-color             : #859900;   // Solarized green
-$warning-color             : #b58900;   // Solarized yellow
-$danger-color              : #dc322f;   // Solarized red
-$info-color                : #2aa198;   // Solarized cyan
+$primary-color             : #226CE0;   // Bright blue for primary actions
+$success-color             : #4CAF50;   // Keeping a standard green for success
+$warning-color             : #FFA726;   // Keeping orange for warnings
+$danger-color              : #EF5350;   // Keeping red for danger
+$info-color                : #226CE0;   // Using the bright blue for info
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #268bd2;  // Solarized blue
-$link-color-hover           : mix(#fff, $link-color, 25%);
-$link-color-visited         : mix($gray, $link-color, 25%);
-$masthead-link-color        : $light-gray;
-$masthead-link-color-hover  : mix(#fff, $masthead-link-color, 25%);
+$link-color                 : #226CE0;  // Bright blue for links
+$link-color-hover           : mix(#fff, #226CE0, 20%);  // Lighter blue on hover
+$link-color-visited         : mix(#A499B3, #226CE0, 25%);  // Slightly muted blue for visited
+$masthead-link-color        : #A499B3;  // Soft lavender for masthead
+$masthead-link-color-hover  : #226CE0;  // Bright blue for masthead hover
 
 
 /*
