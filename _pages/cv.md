@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # Education
-## University of Houston, 2025
-* Bachelor of Science, Major in Computer Science, Minor in Mathematics
+- ## University of Houston, 2025
+  - Bachelor of Science, Major in Computer Science, Minor in Mathematics
 
 # Work Experience
 - ## Software Engineering Intern, Hewlett Packard Enterprise (June 2024 - Present)
