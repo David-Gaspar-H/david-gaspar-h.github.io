@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About Me
 I'm a software engineer with a passion for creative problem-solving and innovative development. With a background in both computer science and electronics, I bridge the gap between technical precision and creative intuition. Whether it's designing software, experimenting with electronics, or exploring new creative mediums, I thrive at the intersection of logic and creativity.
 
 # My Journey
