@@ -14,7 +14,7 @@ redirect_from:
   - Bachelor of Science, Major in Computer Science, Minor in Mathematics
 
 # Work Experience
-- ## **Software Engineering Intern, Hewlett Packard Enterprise (June 2024 - Present)**
+- **Software Engineering Intern, Hewlett Packard Enterprise (June 2024 - Present)**
   - Developed a Full Stack Web Application: Created a server management tool designed to monitor and protect lab infrastructure, using Flask for the backend and React for the frontend
   - Implemented Modular Architecture: Utilized Docker containers to ensure the scalability and maintainability of the application, with separate modules for monitoring, shutdown, and data management services
   - Event-Driven Automation: Implemented logic to trigger automatic shutdowns of lab operations when certain thresholds are reached, ensuring protection against environmental hazards
