@@ -55,24 +55,24 @@ $sidebar-link-max-width     : 250px;
    Colors
    ========================================================================== */
 
-$gray                       : #D3D9DC;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #839496;  // Solarized base0, a muted blue-gray
+$dark-gray                  : #586e75;  // Solarized base01
+$darker-gray                : #073642;  // Solarized base02
+$light-gray                 : #93a1a1;  // Solarized base1
+$lighter-gray               : #eee8d5;  // Solarized base2
 
-$body-color                 : #001C29;
-$background-color           : #69808C;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : #D3D9DC;
-$border-color               : $lighter-gray;
+$body-color                 : #002b36;  // Solarized base03 (darkest background)
+$background-color           : #073642;  // Solarized base02 (dark blue-black)
+$code-background-color      : #002b36;  // Darker background for code
+$code-background-color-dark : #073642;  // Slightly lighter for dark mode code
+$text-color                 : #839496;  // Solarized base0 (default text color)
+$border-color              : #586e75;   // Darker border color
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
+$primary-color             : #268bd2;   // Solarized blue
+$success-color             : #859900;   // Solarized green
+$warning-color             : #b58900;   // Solarized yellow
+$danger-color              : #dc322f;   // Solarized red
+$info-color                : #2aa198;   // Solarized cyan
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #268bd2;  // Solarized blue
+$link-color-hover           : mix(#fff, $link-color, 25%);
+$link-color-visited         : mix($gray, $link-color, 25%);
+$masthead-link-color        : $light-gray;
+$masthead-link-color-hover  : mix(#fff, $masthead-link-color, 25%);
 
 
 /*
