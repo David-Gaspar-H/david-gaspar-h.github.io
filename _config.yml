@@ -21,7 +21,7 @@ repository               : "david-gaspar-h/david-gaspar-h.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dvdg.png"
+  avatar           : "dvdg.jpg"
   name             : "David Gaspar-Herrera"
   pronouns         : "He/Him" 
   bio              : "CS student at UH|SWE intern at HPE"
