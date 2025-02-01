@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "My Work"
+    url: /my-work/
         
   - title: "Blog Posts"
     url: /year-archive/
