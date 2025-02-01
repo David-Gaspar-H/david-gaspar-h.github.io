@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 ======
 # Education
 - **University of Houston, 2025**
