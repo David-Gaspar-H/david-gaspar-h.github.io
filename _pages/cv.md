@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+======
 # Education
 - **University of Houston, 2025**
   - Bachelor of Science, Major in Computer Science, Minor in Mathematics
